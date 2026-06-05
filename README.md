@@ -1,13 +1,26 @@
-# controle_financeiro
+# Controle Financeiro Flutter
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para gerenciamento de receitas e despesas.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Cadastro de usuários
+- Login
+- Dashboard financeiro
+- Adição de receitas
+- Adição de despesas
+- Cálculo automático do saldo
+- Persistência local com SQLite
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
+- Flutter
+- Dart
+- SQLite (sqflite)
+
+## Autor
+
+Thaína Araujo Salgado
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
